@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to Markaz-An-Najax 👋</h1>
+<h1 align="center">Markaz-An-Najax 📝</h1>
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
 </p>
@@ -27,12 +28,6 @@
 
 ***
 
-<img src="./Assets/Phone-profile-page.png"/>
-
-***
-
-<img src="./Assets/phone-profile-page2.png"/>
-
 ## Install
 
 ```sh
@@ -49,7 +44,7 @@ npm install
 
 👤 **Abdifatah**
 
-* Website: abdifatahosman.com
+* Website: [Abdifatahosman.com](https://abdifatahosman.com/)
 * Github: [@AbdifatahOsman2](https://github.com/AbdifatahOsman2)
 
 ***
