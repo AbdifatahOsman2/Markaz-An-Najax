@@ -1,0 +1,58 @@
+.register {
+  background-color: white;
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+}
+.register .logo {
+  width: 250px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.register .container {
+  margin: 150px auto;
+  height: 650px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 1px solid black;
+  padding: 20px;
+  box-shadow: 5px 3px 8px rgba(0, 0, 0, 0.3);
+}
+@media only screen and (max-width: 480px) {
+  .register .container {
+    margin: 130px auto;
+    height: 450px;
+    width: 300px;
+  }
+}
+.register .container h1 {
+  text-align: start;
+  margin: 10px;
+  font-size: 40px;
+}
+@media only screen and (max-width: 480px) {
+  .register .container h1 {
+    font-size: 30px;
+  }
+}
+.register .container p {
+  text-align: start;
+}
+.register .container a {
+  color: #0007AA;
+  font-size: 20px;
+  text-align: start;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+@media only screen and (max-width: 480px) {
+  .register .container a {
+    font-size: 15px;
+  }
+}
+.register .container Button {
+  margin: 10px;
+}/*# sourceMappingURL=Register.css.map */

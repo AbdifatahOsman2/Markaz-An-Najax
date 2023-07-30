@@ -1,0 +1,31 @@
+.section-one .container {
+  text-align: center;
+  color: black;
+  font-family: "Manrope", sans-serif;
+}
+.section-one .container .landing-img {
+  width: 100%;
+  height: 100vh;
+  opacity: 0.6;
+}
+.section-one .container .welcome {
+  position: absolute;
+  top: 37%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+}
+.section-one .container .welcome_bot {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  font-weight: 200;
+}
+.section-one .container #welcome_btn {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}/*# sourceMappingURL=Home.css.map */

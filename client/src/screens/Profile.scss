@@ -1,0 +1,58 @@
+.dropdown {
+    position: relative;
+    width: 500px; /* Change to your desired width */
+    margin-top: 250px;
+    margin-left: 50px;
+    button {
+      width: 100%; /* Make the button full width */
+      background-color: #3429B2; /* Change to your desired background color */
+      border: none;
+      padding: 15px;
+      font-size: 25px;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-radius: 8px;
+      transition-delay: 100ms;  
+    }
+    
+    .dropdown-menu {
+        margin-top: 2px;
+      position: absolute;
+      font-size: 25px;
+      top: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      left: 0;
+      width: 100%;
+      background-color: #3429B2; 
+      padding: 10px;
+      box-sizing: border-box;
+      border-radius: 8px;
+      color: rgb(0, 0, 0);
+      .item-one{
+        display: flex;
+        flex-direction: row;
+      }
+      p{
+        margin: 10px;
+      }
+      img{
+        padding: 10px;
+        align-self: center;
+      }
+    }
+    
+    &.open {
+      button {
+        background-color: rgb(9, 142, 250); /* Change to your desired background color */
+      }
+      
+      .dropdown-menu {
+        display: block;
+      }
+    }
+  }
+  

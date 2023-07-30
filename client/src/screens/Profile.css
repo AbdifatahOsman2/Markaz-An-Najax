@@ -1,0 +1,44 @@
+.profile .collapsible {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  max-width: 450px;
+  top: 300px;
+  left: 200px;
+  background-color: aqua;
+  padding: 5px 20px;
+  font-size: 30px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.profile .collapsible label {
+  position: relative;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+  color: blueviolet;
+  display: block;
+  margin-bottom: 10px;
+  cursor: pointer;
+  padding: 15px 0;
+  border-radius: 4px;
+}
+.profile .collapsible label:after {
+  content: "";
+  position: absolute;
+  right: 15px;
+  top: 20px;
+  height: 18px;
+}
+.profile .collapsible .collapsible-text {
+  overflow: hidden;
+  max-height: 1px;
+  border-radius: 4px;
+  line-height: 1.4;
+}
+
+.collapsible .collapsible-text {
+  max-height: 300px;
+  padding-bottom: 25px;
+  background: white;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+}/*# sourceMappingURL=Profile.css.map */

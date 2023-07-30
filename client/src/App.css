@@ -1,0 +1,21 @@
+body {
+  background-color: #1d2026;
+  text-align: center;
+  /* color: white; */
+}
+
+#loading {
+  margin: 100px auto;
+  padding: 0 auto;
+}
+
+.load {
+  display: flex;
+  flex-direction: row;
+  margin: 350px 100px 0px 900px;
+}
+@media only screen and (max-width: 480px) {
+  .load {
+    margin: 320px 0px 0px 120px;
+  }
+}/*# sourceMappingURL=App.css.map */
