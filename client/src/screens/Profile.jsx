@@ -49,7 +49,7 @@ export default function Profile(props) {
         </button>
         {isOpenTwo && (
           <div className="dropdown-menu">
-            {/* content for the second container */}
+            {/* content for the second container*/}
           </div>
         )}
       </div>
