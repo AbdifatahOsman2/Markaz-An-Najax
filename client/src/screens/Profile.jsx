@@ -16,12 +16,10 @@ export default function Profile(props) {
 
   const handleToggleOne = () => {
     setIsOpenOne(!isOpenOne);
-    setIsOpenTwo(false);
   };
 
   const handleToggleTwo = () => {
     setIsOpenTwo(!isOpenTwo);
-    setIsOpenOne(false);
   };
 
   return (
@@ -35,6 +33,7 @@ export default function Profile(props) {
         </button>
         {isOpenOne && (
           <div className="dropdown-menu">
+          <p>sutdent 1</p>
             {/* content for the first container */}
           </div>
         )}
@@ -49,6 +48,7 @@ export default function Profile(props) {
         </button>
         {isOpenTwo && (
           <div className="dropdown-menu">
+          <p>gggg</p>
             {/* content for the second container*/}
           </div>
         )}
