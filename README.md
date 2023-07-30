@@ -28,17 +28,20 @@
 
 ***
 
+### Prerequisites
+
+- Node.js and npm must be installed. 
+- Built with Sass
+
+
 ## Install
 
-```sh
-npm install 
-```
+1. Clone the repository:
 
-## Install
-
-```sh
-npm install
-```
+   ```bash
+   git clone https://github.com/AbdifatahOsman2/Markaz-An-Najax.git
+   cd MARKAZ-NAJAAX
+   npm i
 
 ## Author
 
