@@ -41,8 +41,11 @@
    ```bash
    git clone https://github.com/AbdifatahOsman2/Markaz-An-Najax.git
    cd MARKAZ-NAJAAX
-   npm i
 
+1. Install:
+
+    ``` 
+    npm i
 ## Author
 
 👤 **Abdifatah**
