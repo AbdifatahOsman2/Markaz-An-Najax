@@ -8,45 +8,18 @@
 
 ## Wireframes
 ### Desktop
-<img src="./Assets/Landing Page.png"/>
+
+![Wireframe - 2 (3)](https://github.com/AbdifatahOsman2/Markaz-An-Najax/assets/88213280/a6ccf815-f82b-4a87-9a33-736821bdb246)
 
 ***
-
-<img src="./Assets/Login.png"/>
-
-***
-
-<img src="./Assets/Profile-Page.png"/>
-
-***
-
-<img src="./Assets/selected profile page.png"/>
-
-***
-
-<img src="./Assets/SignUp.png"/>
-
-***
-
-### Prerequisites
-
-- Node.js and npm must be installed. 
-- Built with Sass
+![SignUp JPG](https://github.com/AbdifatahOsman2/Markaz-An-Najax/assets/88213280/e3207494-b5d3-48f3-b5ea-cc09c2e6a799)
 
 
-## Install
-
-1. Clone the repository:
 
    ```bash
    git clone https://github.com/AbdifatahOsman2/Markaz-An-Najax.git
-   cd MARKAZ-NAJAAX
 
-1. Install:
-
-    ``` 
-    npm i
-## Author
+   ```
 
 👤 **Abdifatah**
 
